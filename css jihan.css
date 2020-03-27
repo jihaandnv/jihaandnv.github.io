@@ -1,0 +1,14 @@
+h1{text-align: center;color:#808000 ; font-size: 45px}
+p{text-align: center; color: mintcream }
+ul{text-align: center;
+	border-style: solid;
+	border-color: #F4A460;
+	background-color: #AFEEEE;
+	color:#2E8B57}
+p{text-align: left;
+	background-color: #FFDEAD;
+	color:#708090}
+body{background-image: url("hydropaint.jpg")}
+img{width: 500px
+	height: 500px;
+	border-radius: 50%;}
